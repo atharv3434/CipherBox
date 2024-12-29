@@ -1,3 +1,3 @@
 # CipherBox
 
-It Transforms normal message in Ciphertext
+It is a personal encryption tool for encrypting messages.
